@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+  }
+  
+  img{
+      max-width: 100%
+    }
+    #img-div{
+      background-color: cornflowerblue;
+      padding: 20px;
+    }
+    #subtitle{
+      font-size: 20px;
+      text-align: center;
+      padding: 20px 0;
+      font-weight: 600;
+    }
+    #img-caption {
+      width: 400px;
+      color: black;
+    }
+    
+    #image {
+      max-width: 100%;
+      height: auto;
+      display:block;
+      }
